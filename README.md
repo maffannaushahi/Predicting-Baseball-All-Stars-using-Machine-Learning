@@ -1,4 +1,4 @@
-#Sabermetrics and All-Star Selections in Major League Baseball
+# Sabermetrics and All-Star Selections in Major League Baseball
 
 This project explores the use of sabermetrics, which is the empirical analysis of baseball performance and team strategy, to predict which players are chosen as All-Stars based on the results of their plate appearances. Sabermetrics gained widespread attention in the 1970s and 80s, and nowadays, many Major League Baseball teams use this approach to evaluate player performance and make strategic decisions.
 
@@ -8,7 +8,7 @@ The project is significant because it involves building and fixing models based 
 
 This GitHub repository contains the code and data used in the project, as well as the final report and presentation summarizing the findings. The project was conducted by a team of avid sports fans who were interested in exploring the intersection of sports and data science.
 
-##Project Overview: 
+## Project Overview: 
 
 **Background:** Sabermetrics is the empirical analysis of baseball, particularly in the areas of player performance and team strategy. This project explores the use of sabermetrics to predict which players are chosen as All-Stars based on the results of their plate appearances.
 **Data:** The project is based on large datasets created by the plate appearances within an MLB season.
@@ -17,7 +17,7 @@ This GitHub repository contains the code and data used in the project, as well a
 **Results:** The team was able to develop a model that predicted All-Star selections with a high degree of accuracy.
 Conclusions: The project demonstrates the potential for sabermetrics to be used in predicting individual player performance in baseball, and the importance of statistical analysis in sports more broadly.
 
-##Repository Contents
+## Repository Contents
 data/: Contains the data used in the project.
 code/: Contains the code used to analyze the data and build the predictive model.
 report/: Contains the final report summarizing the findings of the project.
