@@ -25,4 +25,4 @@ This GitHub repository contains the code and data used in the project, as well a
 ## Repository Contents
 data/: Contains the data used in the project.
 
-code/: Contains the code used to analyze the data and build the predictive model.
+src/: Contains the code used to analyze the data and build the predictive model.
