@@ -26,7 +26,3 @@ This GitHub repository contains the code and data used in the project, as well a
 data/: Contains the data used in the project.
 
 code/: Contains the code used to analyze the data and build the predictive model.
-
-report/: Contains the final report summarizing the findings of the project.
-
-presentation/: Contains the final presentation given by the team.
